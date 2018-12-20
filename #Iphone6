@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>populair phones.nl</title>
+  <title>Iphone 6</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 ul {
@@ -64,13 +64,13 @@ li a:hover:not(.active) {
   </ul>
  </div>
   <H1><font size="5"><center><b><font color="white">
-    Op deze site vind je alle informatie die je zoekt
+    Op deze pagina kun je
     <br>
-   over alle verschillende iphones die er zijn,
+   alles vinden over de Iphone 6
     <br>
     zodat je de beste keuze kan maken voor welke telefoon je wilt halen.
     </font></b></center></font></H1>
-  <div class="row">
+  <!-- <div class="row">
      <div class="column">
        <img src="ron-mcclenny-692810-unsplash.jpg" alt="picture phone" style="width:100%">
      </div>
@@ -80,7 +80,7 @@ li a:hover:not(.active) {
      <div class="column">
        <img src="tyler-lastovich-720384-unsplash.jpg" alt="picture phone" style="width:100%">
      </div>
-</div>
+</div> -->
                                                                                                
                                                                                                          
 </body>
